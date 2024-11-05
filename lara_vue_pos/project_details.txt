@@ -1,0 +1,15 @@
+Techstack I have used:
+Backend: Laravel,breeze,mysql,bootstrap.
+Frontend: vue3,axios,bootstrap.
+
+laravel emailand password: john@gmail.com
+
+Feature I have completed.
+1. Prouct management.
+2. Quantity auto update.
+3. Iovoice generate and pdf print.
+4. Sales report.
+5. Stock Report.
+6. Discount added.
+
+Tools I have used: VSCode for code writing, chatgpt for solve pdf print and prevent max order and discont, MySQL workbench for database.
